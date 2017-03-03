@@ -10,7 +10,8 @@ nama : achmad ainul yaqin
 email : yaqien378@gmail.com
 github : https://github.com/yaqien378
 
-> 
-nama : mochamz
+## MochamZ
+
 email : mochamzdaniel@gmail.com
+
 github : https://github.com/TheBusteds
